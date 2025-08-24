@@ -33,4 +33,4 @@ This repo isn’t about perfection—it’s about progress.
 - Breaking queries, fixing them, and learning along the way.
 - Because at the end of the day:
 
-"Great databases aren’t built in a day, but built one query at a time." 
+### "Great databases aren’t built in a day, but built one query at a time." 
