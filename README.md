@@ -25,12 +25,12 @@ mysql -u your_username -p < file.sql
 ```
 ---
 
-##💡 Fun Fact
+## 💡 Fun Fact
 Every query here is a little puzzle piece 🧩. The more I solve, the clearer the bigger picture of data mastery becomes.
 
-🌱 Keep Growing
+##🌱 Keep Growing
 This repo isn’t about perfection—it’s about progress.
 - Breaking queries, fixing them, and learning along the way.
 - Because at the end of the day:
 
-"Great databases aren’t built in a day, but built one query at a time." ⚡
+"Great databases aren’t built in a day, but built one query at a time." 
